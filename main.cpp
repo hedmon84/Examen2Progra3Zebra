@@ -33,19 +33,19 @@ Libro* leer(string nombre_archivo, int posicion)
 {
     char name[20];
     char aut[20];
-    int existencias;
+    int cont;
 
     ifstream in(nombre_archivo.c_str());
     in.seekg(posicion*pos);
 
     in.read(name,40);
     in.read(aut,40);
-    in.read((char*)&existencias,6);
+    in.read((char*)&cont,6);
 
 
     in.close();
 
-    Libro *libro = new Libro(name, aut,existencias);
+    Libro *libro = new Libro(name, aut,cont);
     return libro;
 }
 

@@ -61,10 +61,11 @@ void evaluar()
 
     if(correcto)
     {
-        nota+=5;
-        cout<<"Correcto"<<endl;
+
+        cout<<"Incorrecto"<<endl;
     }else
     {
+        nota+=5;
         cout<<"Correcto"<<endl;
     }
 
