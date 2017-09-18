@@ -1,3 +1,3 @@
-/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir
+/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir

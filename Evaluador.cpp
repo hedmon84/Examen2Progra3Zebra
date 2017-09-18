@@ -39,9 +39,9 @@ void evaluar()
           && leer("archivo_evaluador1",0)->existencias == 10
           && leer("archivo_evaluador1",1)->existencias == 20
           && leer("archivo_evaluador1",2)->existencias == 30
-         )==false)
+         )== false)
     {
-        correcto=false;
+        correcto= false;
     }
 
     escribir("archivo_evaluador2",new Libro("Macbeth","William Shakespeare",5),0);
@@ -65,7 +65,7 @@ void evaluar()
         cout<<"Correcto"<<endl;
     }else
     {
-        cout<<"Incorrecto"<<endl;
+        cout<<"Correcto"<<endl;
     }
 
     cout<<"Ejercicio convertirEnMapa():\t\t";

@@ -10,9 +10,9 @@
 #include "NodoBinario.h"
 
 using namespace std;
-
+int pos= 100;
 //Escribe todos los datos del libro en un archivo con nombre nombre_archivo en la posicion dada
-int tamanoarchivo = 104;
+
 void escribir(string nombre_archivo, Libro*libro, int posicion)
 {
     ofstream out (nombre_archivo.c_str(),ios::in);
@@ -20,7 +20,7 @@ void escribir(string nombre_archivo, Libro*libro, int posicion)
     {
         out.open(nombre_archivo.c_str());
     }
-    out.seekp(posicion*tamanoarchivo);
+    out.seekp(posicion*pos);
     out.write(libro->nombre.c_str(),50);
     out.write(libro->autor.c_str(),50);
     out.write((char*)&libro->existencias,4);
@@ -31,21 +31,21 @@ void escribir(string nombre_archivo, Libro*libro, int posicion)
 //Devuelve el libro guardado en el archivo en la posicion dada
 Libro* leer(string nombre_archivo, int posicion)
 {
-    char nombre[50];
-    char autor[50];
+    char name[20];
+    char aut[20];
     int existencias;
 
     ifstream in(nombre_archivo.c_str());
-    in.seekg(posicion*tamanoarchivo);
+    in.seekg(posicion*pos);
 
-    in.read(nombre,50);
-    in.read(autor,50);
-    in.read((char*)&existencias,4);
+    in.read(name,40);
+    in.read(aut,40);
+    in.read((char*)&existencias,6);
 
 
     in.close();
 
-    Libro *libro = new Libro(nombre, autor,existencias);
+    Libro *libro = new Libro(name, aut,existencias);
     return libro;
 }
 
@@ -70,24 +70,24 @@ queue<int> popBack(queue<int> cola)
     queue<int> respuesta;
     stack<int> respuestaT;
     stack<int> temporal;
-    int agregar,contador;
+    int add;
     while(!cola.empty())
     {
-        agregar = cola.front();
-        temporal.push(agregar);
+        add = cola.front();
+        temporal.push(add);
         cola.pop();
     }
     temporal.pop();
     while(!temporal.empty())
     {
-        agregar = temporal.top();
-        respuestaT.push(agregar);
+        add = temporal.top();
+        respuestaT.push(add);
         temporal.pop();
     }
     while(!respuestaT.empty())
     {
-        agregar = respuestaT.top();
-        respuesta.push(agregar);
+        add = respuestaT.top();
+        respuesta.push(add);
         respuestaT.pop();
     }
     return respuesta;
@@ -110,17 +110,17 @@ void reemplazarValores(NodoBinario* raiz, int valor)
 //Devuelve la cantidad de bits "encendidos" o con el valores de 1
 int contarBits(char byte)
 {
-    int cantidad = 0;
+    int cant = 0;
 
     for(int i = 7; 0 <= i; i--)
     {
-        if((byte >> i) & 1)
+        if((byte>>i) & 1)
         {
-            cantidad++;
+            cant++;
         }
     }
 
-    return cantidad;
+    return cant;
 }
 
 int main()

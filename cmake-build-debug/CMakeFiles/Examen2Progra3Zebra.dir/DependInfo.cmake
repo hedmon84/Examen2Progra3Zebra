@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.cpp" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o"
-  "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.cpp" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o"
-  "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.cpp" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o"
-  "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/main.cpp" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o"
+  "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Evaluador.cpp" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o"
+  "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Libro.cpp" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o"
+  "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/NodoBinario.cpp" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o"
+  "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/main.cpp" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

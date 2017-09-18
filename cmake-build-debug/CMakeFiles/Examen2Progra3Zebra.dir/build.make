@@ -43,10 +43,10 @@ RM = "/cygdrive/c/Users/Erick Nisbeth/.CLion2017.2/system/cygwin_cmake/bin/cmake
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra"
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug"
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Examen2Progra3Zebra.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Examen2Progra3Zebra.dir/flags.make
 
 CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o: CMakeFiles/Examen2Progra3Zebra.dir/flags.make
 CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/main.cpp"
 
 CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/main.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/main.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.i
 
 CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/main.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/main.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.s
 
 CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o.provides.build: CMakeFiles/Examen2
 
 CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o: CMakeFiles/Examen2Progra3Zebra.dir/flags.make
 CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o: ../Evaluador.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Evaluador.cpp"
 
 CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Evaluador.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.i
 
 CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Evaluador.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.s
 
 CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o.provides.build: CMakeFiles/Ex
 
 CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o: CMakeFiles/Examen2Progra3Zebra.dir/flags.make
 CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o: ../Libro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Libro.cpp"
 
 CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Libro.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.i
 
 CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/Libro.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.s
 
 CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o.provides.build: CMakeFiles/Examen
 
 CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o: CMakeFiles/Examen2Progra3Zebra.dir/flags.make
 CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o: ../NodoBinario.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o -c "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/NodoBinario.cpp"
 
 CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/NodoBinario.cpp" > CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.i
 
 CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/NodoBinario.cpp" -o CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.s
 
 CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o.requires:
 
@@ -169,7 +169,7 @@ Examen2Progra3Zebra.exe: CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o
 Examen2Progra3Zebra.exe: CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o
 Examen2Progra3Zebra.exe: CMakeFiles/Examen2Progra3Zebra.dir/build.make
 Examen2Progra3Zebra.exe: CMakeFiles/Examen2Progra3Zebra.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Examen2Progra3Zebra.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Examen2Progra3Zebra.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Examen2Progra3Zebra.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/Examen2Progra3Zebra.dir/clean:
 .PHONY : CMakeFiles/Examen2Progra3Zebra.dir/clean
 
 CMakeFiles/Examen2Progra3Zebra.dir/depend:
-	cd "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug" "/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug" "/cygdrive/c/Users/Erick Nisbeth/Documents/GitHub/Examen2Progra3Zebra/cmake-build-debug/CMakeFiles/Examen2Progra3Zebra.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Examen2Progra3Zebra.dir/depend
 
