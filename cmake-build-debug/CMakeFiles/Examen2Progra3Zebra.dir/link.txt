@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Examen2Progra3Zebra.dir/main.cpp.o CMakeFiles/Examen2Progra3Zebra.dir/Evaluador.cpp.o CMakeFiles/Examen2Progra3Zebra.dir/Libro.cpp.o CMakeFiles/Examen2Progra3Zebra.dir/NodoBinario.cpp.o  -o Examen2Progra3Zebra.exe -Wl,--out-implib,libExamen2Progra3Zebra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.cpp
+Evaluador.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.h
+Libro.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.h
+NodoBinario.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.h
+iostream
+-
+stack
+-
+queue
+-
+set
+-
+map
+-
+list
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.cpp
+Libro.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.h
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.cpp
+NodoBinario.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.h
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/main.cpp
+iostream
+-
+list
+-
+fstream
+-
+stack
+-
+queue
+-
+set
+-
+map
+-
+Libro.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Libro.h
+Evaluador.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/Evaluador.h
+NodoBinario.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Examen2Progra3Zebra/NodoBinario.h
+
